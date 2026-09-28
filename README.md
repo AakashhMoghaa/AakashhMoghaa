@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Aakash Moghaa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=FullStack+Developer;B.Tech+CSE+(IoT);Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;B.Tech+CSE+(IoT);Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### 💻 Building clean, responsive & user-friendly digital experiences
 
@@ -33,7 +33,7 @@
 
 🎓 **B.Tech Computer Science & Engineering (IoT)** 
 
-💻 Passionate about **FullStack Development**
+💻 Passionate about **Full-Stack Development**
 
 🎨 Interested in building clean, modern and responsive interfaces
 
