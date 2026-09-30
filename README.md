@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Aakash Moghaa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;B.Tech+CSE+(IoT);Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;B.Tech+CSE+(IoT);Problem+Solver;Always+Learning+🚀" alt="Typing SVG" />
 
 ### 💻 Building clean, responsive & user-friendly digital experiences
 
@@ -12,16 +12,16 @@
 
 <p>
   <a href="https://github.com/AakashhMoghaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/aakash-mogha-97b8522a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aakashrajput0709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/AakashhRajputt/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
@@ -31,17 +31,12 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science & Engineering (IoT)** 
-
-💻 Passionate about **Full-Stack Development**
-
-🎨 Interested in building clean, modern and responsive interfaces
-
-🧠 Practicing **Data Structures & Algorithms** on LeetCode
-
-⚡ Always exploring new technologies and improving my development skills
-
-🌱 Currently focused on becoming a **professional FullStack Engineer**
+* 🎓 **B.Tech Computer Science & Engineering (IoT)**
+* 💻 Passionate about **Full-Stack Development**
+* 🎨 Interested in building clean, modern and responsive interfaces
+* 🧠 Practicing **Data Structures & Algorithms** on LeetCode
+* ⚡ Always exploring new technologies and improving my development skills
+* 🌱 Currently focused on becoming a **professional Full-Stack Engineer**
 
 > 💡 **My goal:** Build impactful products that combine great design, usability and functionality.
 
@@ -52,19 +47,19 @@
 ### 🌐 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,visualstudio" alt="Tools and Platforms" />
 </p>
 
 ### 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,cs,dotnet,sql" />
+  <img src="https://skillicons.dev/icons?i=react,cs,dotnet,sql" alt="Currently Learning" />
 </p>
 
 ---
@@ -86,9 +81,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AakashhMoghaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AakashhMoghaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashhMoghaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashhMoghaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
 
 </div>
 
@@ -96,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashhMoghaa&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashhMoghaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -107,7 +102,7 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/AakashhRajputt/">
-  <img src="https://img.shields.io/badge/LeetCode-AakashhRajputt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-AakashhRajputt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
 
 <p>
@@ -180,15 +175,15 @@ experimentation and attention to the people who use it.
 ### 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/aakash-mogha-97b8522a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:aakashrajput0709@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/AakashhMoghaa">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br><br>
