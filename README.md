@@ -6,20 +6,20 @@
 
 ### 💻 Building clean, responsive & user-friendly digital experiences
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AakashhMoghaa&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</p>
 
 <p>
   <a href="https://github.com/AakashhMoghaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/aakash-mogha-97b8522a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aakashrajput0709@gmail.com">
+
+  <a href="mailto:aakashhmoghaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://leetcode.com/u/AakashhRajputt/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -59,7 +59,7 @@
 ### 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,cs,dotnet,sql" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sql" alt="Currently Learning" />
 </p>
 
 ---
@@ -77,26 +77,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AakashhMoghaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashhMoghaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashhMoghaa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🧠 Problem Solving
 
 <div align="center">
@@ -105,13 +85,11 @@
   <img src="https://img.shields.io/badge/LeetCode-AakashhRajputt-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
 
-<p>
+<br><br>
 
 🔹 Practicing Data Structures & Algorithms
 🔹 Improving logical thinking
 🔹 Solving coding challenges consistently
-
-</p>
 
 </div>
 
@@ -149,8 +127,6 @@ Backend Fundamentals  ███████████░░░░░░░░�
 
 ### **"Learn → Build → Break → Fix → Improve → Repeat."**
 
-<br>
-
 I believe great software is built through continuous learning,
 experimentation and attention to the people who use it.
 
@@ -172,13 +148,13 @@ experimentation and attention to the people who use it.
 
 <div align="center">
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/aakash-mogha-97b8522a0/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:aakashrajput0709@gmail.com">
+<a href="mailto:aakashhmoghaa@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
